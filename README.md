@@ -21,6 +21,9 @@ The following technologies have been used in this project:
 ## 📦 Setup
 
 To run this project locally, follow these steps:
+##screenshots
+
+https://github.com/Gerpiee/Netflix/issues/1
 
 1. **Clone the repository**:
    ```bash
